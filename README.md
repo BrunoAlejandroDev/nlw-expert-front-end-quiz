@@ -23,7 +23,7 @@
  O projeto está finalizado.
 </p>
 
-<h3 id='tecnologias'>Tecnologias Utilizadas</h3>
+<h3 id='tecnologias'>⌨️ Tecnologias Utilizadas</h3>
 <p>
  <ul>
   <li>HTML</li>
@@ -34,4 +34,4 @@
 
 <h3 id='melhorias'>📌 Atualizações</h3>
 <p>⌛ Posteriormente, pretendo reformular as perguntas, trocando-as por perguntas relacionadas a outro assunto.</p>
-<p>⌛ Por fim, apesar de possuir um layout responsivo, muitos elementos, como textos, ainda não foram 100% adaptados para diferentes tamanhos de tela. Portanto, um mudança futura será ajustar o projeto para torná-lo agradável para todos os tipos de tela.</p>
+<p>✅ Por fim, apesar de possuir um layout responsivo, muitos elementos, como textos, ainda não foram 100% adaptados para diferentes tamanhos de tela. Portanto, um mudança futura será ajustar o projeto para torná-lo agradável para todos os tipos de tela.</p>
